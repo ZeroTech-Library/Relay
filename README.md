@@ -1,5 +1,7 @@
 # Relay
 
+# **Relay Bot was taken offline in September 2026. source code is available for self hosting**
+
 **Relay** is a production-ready Discord ticket bot.  
 Everything is configured **inside Discord** — slash commands, buttons, select menus, and modals. No external dashboard required.
 
